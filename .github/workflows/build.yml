@@ -15,7 +15,7 @@ jobs:
         id: build
         with:
           target: Win64
-          sdk: latest
+          sdk: 5.11.1
           cli: latest
 
       - name: Upload Artifact
