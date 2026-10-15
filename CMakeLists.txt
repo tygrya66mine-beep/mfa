@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.21)
-project(macro_analyzer CXX)
+project(macro_analyzer)
 
 find_package(Geode REQUIRED)
 
