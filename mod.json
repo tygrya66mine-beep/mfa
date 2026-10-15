@@ -5,7 +5,9 @@
   },
   "id": "tygrya.macro_analyzer",
   "name": "Macro Frame Analyzer",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "developer": "Tygrya",
-  "description": "Analyzes macro frames in-game."
+  "description": "An in-game macro frame analyzer for Geometry Dash.",
+  "repository": "",
+  "dependencies": []
 }
