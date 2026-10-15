@@ -1,0 +1,11 @@
+{
+  "geode": "5.11.1",
+  "gd": {
+    "win": "2.2081"
+  },
+  "id": "yourusername.macro_analyzer",
+  "name": "Macro Frame Analyzer",
+  "version": "v1.0.0",
+  "developer": "YourName",
+  "description": "Analyzes macro frames and windows in-game."
+}
