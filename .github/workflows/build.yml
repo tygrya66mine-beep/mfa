@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Build Geode Mod
+      - name: Setup Geode CLI and SDK
         uses: geode-sdk/build-geode-mod@main
         id: build
         with:
