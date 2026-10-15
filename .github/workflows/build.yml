@@ -2,7 +2,6 @@ name: Build Geode Mod
 
 on:
   push:
-    branches: [ "main", "master" ]
   workflow_dispatch:
 
 jobs:
@@ -11,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Build Mod
+      - name: Build Geode Mod
         uses: geode-sdk/build-geode-mod@main
         id: build
         with:
