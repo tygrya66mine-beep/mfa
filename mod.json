@@ -1,13 +1,11 @@
 {
-  "geode": "5.11.1",
+  "geode": "latest",
   "gd": {
-    "win": "2.2081"
+    "win": "2.209"
   },
   "id": "tygrya.macro_analyzer",
   "name": "Macro Frame Analyzer",
   "version": "1.0.0",
   "developer": "Tygrya",
-  "description": "An in-game macro frame analyzer for Geometry Dash.",
-  "repository": "",
-  "dependencies": []
+  "description": "Macro frame analyzer for Geometry Dash."
 }
