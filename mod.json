@@ -3,9 +3,9 @@
   "gd": {
     "win": "2.209"
   },
-  "id": "tygrya.macro_analyzer",
-  "name": "Macro Frame Analyzer",
+  "id": "tygrya.frame_window_counter",
+  "name": "Frame Window Counter",
   "version": "1.0.0",
   "developer": "Tygrya",
-  "description": "Macro frame analyzer for Geometry Dash."
+  "description": "Frame window counter mod for Geometry Dash."
 }
