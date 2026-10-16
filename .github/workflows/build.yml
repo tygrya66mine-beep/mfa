@@ -10,12 +10,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Setup Geode CLI and SDK
+      - name: Build Geode Mod
         uses: geode-sdk/build-geode-mod@main
         id: build
         with:
           target: Win64
-          sdk: 5.11.1
+          sdk: latest
           cli: latest
 
       - name: Upload Artifact
