@@ -14,7 +14,7 @@ jobs:
         uses: geode-sdk/build-geode-mod@main
         id: build
         with:
-          target: Win64
+          target: win
           sdk: latest
           cli: latest
 
